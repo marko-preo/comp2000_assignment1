@@ -1,6 +1,8 @@
 # How to Run
-- Download the src file and open it in VScode
-- In VScode run the method called 'Main'
+- Extract the zip folder after downloading it from iLearn
+- Locate the parent folder that contains the 'src' folder and README file and open it in VScode
+- In VScode locate the 'Main.java' file and run it
+- A graphics window should appear and the game can be played
 
 # How to Play
 ### Inputs
